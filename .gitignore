@@ -2,5 +2,5 @@ Java/.gitignore
 Java/Start/.classpath
 Java/Start/.gitignore
 Java/Start/.project
-Java/Start/.settings/org.eclipse.core.resources.prefs
-Java/Start/.settings/org.eclipse.jdt.core.prefs
+Java/Start/src/Chapter01/.classpath
+Java/Start/src/Chapter01/.project
